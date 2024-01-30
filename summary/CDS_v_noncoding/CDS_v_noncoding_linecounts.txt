@@ -1,0 +1,6 @@
+21473 mutations_11bp_nulls_rmsk_CDS.bed
+42690 mutations_11bp_nulls_rmsk_nonCoding.bed
+2944979 mutations_12bp_nulls_rmsk_CDS.bed
+7673690 mutations_12bp_nulls_rmsk_nonCoding.bed
+39747651 mutations_13bp_nulls_rmsk_CDS.bed
+117119605 mutations_13bp_nulls_rmsk_nonCoding.bed

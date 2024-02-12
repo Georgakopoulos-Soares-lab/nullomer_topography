@@ -1,4 +1,4 @@
-# Repository for manuscript for "The topography of nullomer-emerging mutations and their relevance to human disease"
+# Repository for "The topography of nullomer-emerging mutations and their relevance to human disease"
 
 ![schematic](https://github.com/Georgakopoulos-Soares-lab/nullomer_topography/assets/38195218/0ca16669-67ef-44ec-939a-f8873d4297c4)
 
